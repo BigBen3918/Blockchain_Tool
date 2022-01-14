@@ -1,0 +1,1 @@
+faucetAPI = "https://faucet.fantom.network/api/request/ftm/"
